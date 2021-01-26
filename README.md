@@ -1,6 +1,6 @@
-<h3> Robert Konigsberg's MIT_xPRO_Projects</h3>
+<h3> Robert Konigsberg's Pacman Challenge</h3>
 
-This repository will be used to showcase the project I completed  
+This repository will be used to showcase a project I completed  
 during my enrollment in MIT xPRO's Professional Certificate in Coding:  
 **Full Stack Development with MERN program.**
 
